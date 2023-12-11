@@ -1,0 +1,4 @@
+workload-testing/_pycache_
+openfaas-setup/template
+openfaas-setup/build
+openfaas-setup/.secrets
